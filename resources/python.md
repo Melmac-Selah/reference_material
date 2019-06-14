@@ -38,6 +38,7 @@
 - [Exceptions](https://julien.danjou.info/blog/2016/python-exceptions-guide)
 - [Decorators (closures, scoping, etc.)](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/) (According to a comment: Reading this article is like eating a mushroom by Mario.)
 - [All the above about decorators is wrong](https://github.com/GrahamDumpleton/wrapt/tree/develop/blog) (from the author of the wrapt module)
+- [Descriptor HowTo Guide](https://docs.python.org/3/howto/descriptor.html), reference guide on Python's Descriptor Protocol
 
 ### Performance:
 - [Performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
