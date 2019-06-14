@@ -20,6 +20,7 @@
   - Structuring your project: [1](http://docs.python-guide.org/en/latest/writing/structure/) and [2](http://python-packaging.readthedocs.io/en/latest/minimal.html)
   - [5 simple rules for building great Python packages](https://pythontips.com/2013/09/16/5-simple-rules-for-building-great-python-packages/)
   - [Open sourcing a Python project the right way](https://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
+  - [A tour on Python Packaging](https://manikos.github.io/a-tour-on-python-packaging), self-contained guide on Python Packaging
 - Summary: [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 
 ### Frequent doubts:
@@ -27,7 +28,7 @@
 - [How to think like a Pythonist](http://python.net/crew/mwh/hacks/objectthink.html#question)
 - [Namespaces and variable scopes](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/scope_resolution_legb_rule.ipynb)
 - [A collection of not-so-obvious Python stuff you should know!](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/not_so_obvious_python_stuff.ipynb)
-- [Magic methods](https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.markdown) (function between double underscore, ex: .\_\_str\_\_)
+- [Magic methods](https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.markdown), function names in between two double underscores, e.g. `__str__`.
 - [What are the “best practices” for using import in a module?](https://docs.python.org/3/faq/programming.html#what-are-the-best-practices-for-using-import-in-a-module) And those links ([A](http://softwareengineering.stackexchange.com/questions/187403/import-module-vs-from-module-import-function/187471) and [B](http://effbot.org/zone/import-confusion.htm)) for those who want further details
 - [setup.py vs. requirements.txt](https://caremad.io/posts/2013/07/setup-vs-requirement/)
 
@@ -70,6 +71,9 @@ Some of them can be regarded as ways to accelerate Python computations:
 
 ### Matlab
 - [MATLAB API for Python](https://es.mathworks.com/help/matlab/matlab-engine-for-python.html)
+
+### Java
+- [Py4J](https://www.py4j.org/), dynamically access Java objects in a Java Virtual Machine (the library used by PySpark)
 
 ## IPython
 - [IPython or Jupyter?](https://www.datacamp.com/community/blog/ipython-jupyter#gs.gMegJxs)
