@@ -96,6 +96,7 @@ Some of them can be regarded as ways to accelerate Python computations:
 - [Numeric matrix manipulation](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html) – The cheat sheet for MATLAB, Python NumPy, R, and Julia and performance comparisons
 - [Numpy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
 - [Numpy array technicalities](https://www.johndcook.com//numpy_intro.pdf)
+- [Understanding the internals of NumPy to avoid unnecessary array copying](https://ipython-books.github.io/45-understanding-the-internals-of-numpy-to-avoid-unnecessary-array-copying/)
 
 #### Frequent doubts:
 
