@@ -62,6 +62,7 @@ Some of them can be regarded as ways to accelerate Python computations:
 ### C
 - [Python by the C side](https://www.paypal-engineering.com/2016/09/22/python-by-the-c-side/), a summary of alternatives (maybe missing Numba)
 - [Calling C Libraries from Numba Using CFFI](http://nbviewer.jupyter.org/github/synapticarbors/rmath-cffi-example/blob/master/rmath-cffi-example.ipynb)
+- [Building Extensions for Python 3.5](http://stevedower.id.au/blog/building-for-python-3-5/), why each Python version is linked to a particular version of a compiler and how Microsoft's redistributable libraries refactoring affected the development of CPython 3.5
 
 ### Fortran
 - [f2py](https://docs.scipy.org/doc/numpy/f2py/)
