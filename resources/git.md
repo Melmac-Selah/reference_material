@@ -16,7 +16,7 @@
 ## Git in layman’s terms
 - [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
 - [The Git parable](http://practical-neuroimaging.github.io/git_parable.html)
-- [Building Git from scratch: yet another parable](http://matthew-brett.github.io/pydagogue/foundation.html)
+- [Git Foundations](http://matthew-brett.github.io/pydagogue/foundation.html): building Git from scratch, yet another parable
 
 ## Tools
 - [Git history editor](https://bokub.github.io/git-history-editor/), upload your git log, edit interactively, and get a filter to be applied using `git filter-branch`
