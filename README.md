@@ -58,3 +58,5 @@ Collection of libraries/projects whose simplicity makes them ideal as a starting
 - Continuous integration tools:
   - Appveyor CI: [geopandas](https://github.com/geopandas/geopandas/blob/master/appveyor.yml)
   - Travis CI: [geopandas](https://github.com/geopandas/geopandas/blob/master/.travis.yml)
+- Entrypoints:
+  -[entrypoint demo](https://github.com/RichardBronosky/entrypoint_demo): how to develop a plugin system using entrypoints
