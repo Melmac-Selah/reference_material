@@ -60,3 +60,5 @@ Collection of libraries/projects whose simplicity makes them ideal as a starting
   - Travis CI: [geopandas](https://github.com/geopandas/geopandas/blob/master/.travis.yml)
 - Entrypoints:
   -[entrypoint demo](https://github.com/RichardBronosky/entrypoint_demo): how to develop a plugin system using entrypoints
+- Packaging:
+  -[pip](https://github.com/pypa/pip): how to use a given directory as the root of the source code
