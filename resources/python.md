@@ -46,6 +46,10 @@
 - [The magic of timeit](https://ipython.org/ipython-doc/3/interactive/magics.html#magic-timeit)
 - [Timing & profiling](http://pynash.org/2013/03/06/timing-and-profiling/)
 
+### Documentation:
+- [Sphinx](https://www.sphinx-doc.org): a Python documentation generator
+  - [MyST](https://myst-parser.readthedocs.io/en/latest/index.html): allows you to write Sphinx documentation entirely in markdown
+
 ## Accelerating Python
 
 ### Reflections:
