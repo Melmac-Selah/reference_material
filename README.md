@@ -41,6 +41,7 @@ This repo contains guides and other reference material that may be useful when l
 - [Deep Learning, I. Goodfellow, Y. Bengio and A. Courville](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning, M. Nielsen](http://neuralnetworksanddeeplearning.com)
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares, S. Boyd and L. Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
+- [Probabilistic Machine Learning: An Introduction, K. P. Murphy](https://probml.github.io/pml-book/book1.html)
 
 ## Learning by example
 ### [Cheatsheets](cheatsheets/README.md)
