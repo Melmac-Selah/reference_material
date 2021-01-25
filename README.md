@@ -33,7 +33,7 @@ This repo contains guides and other reference material that may be useful when l
 - [Statistical Learning by Hastie & Tibshirani @ Stanford](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 - [Reinforcement Learning in Finance @ Coursera](https://www.coursera.org/learn/reinforcement-learning-in-finance])
 
-## Online books
+## (Free) Online books
 - [Applied Mathematical Programming, Bradley, Hax, and Magnanti](http://web.mit.edu/15.053/www/AMP.htm)
 - [Convex optimization, S. Boyd and L. Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
 - [An Introduction to Statistical Learning with Applications in R, G. James, D. Witten, T. Hastie and R. Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
@@ -42,6 +42,9 @@ This repo contains guides and other reference material that may be useful when l
 - [Neural Networks and Deep Learning, M. Nielsen](http://neuralnetworksanddeeplearning.com)
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares, S. Boyd and L. Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
 - [Probabilistic Machine Learning: An Introduction, K. P. Murphy](https://probml.github.io/pml-book/book1.html)
+
+## Books
+- [Machine Learning: A Probabilistc Perspective](https://mitpress.mit.edu/books/machine-learning-1) [[Mendeley](https://www.mendeley.com/catalogue/705e5a8c-6569-3a1c-a3ac-7eeca5a0663c/)]
 
 ## Learning by example
 ### [Cheatsheets](cheatsheets/README.md)
